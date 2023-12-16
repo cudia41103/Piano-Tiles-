@@ -1,0 +1,3 @@
+This is an implemention of the famous game, Piano Tiles, using an Artx A7 FPGA and Xilinx Vivado. This game includes the same features as normal Piano Tiles. After starting the game, the tiles will start randomly spawning in 1 of 4 locations, then will travel down in a straight line, aligned with it's starting position. Upon reaching a certain score, the tile spawn rate will increase and the tiles will being to move faster! 
+
+To play the game, simply export the Hardware Specification (Bitstream file) into the Xilinx Vitis IDE. Once compiled and executed, users will see a menu screen with the title of the game, Piano Tiles. Once ready, press S and begin the game. To reset the game, press the space bar. 
